@@ -185,13 +185,6 @@ function LoginPage() {
           ) : (
             ""
           )}
-          <div className="w-3/4 flex justify-between">
-            <div className="flex gap-1">
-              <input type="checkbox" className="cursor-pointer" />
-              <small className="text-[#89928c]">Remember me</small>
-            </div>
-            <small className="text-[#928a89]">Forget?</small>
-          </div>
 
           <div
             className="w-3/4 h-[2.8rem] flex cursor-pointer hover:scale-105
