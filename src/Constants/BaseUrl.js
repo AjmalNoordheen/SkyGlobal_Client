@@ -1,1 +1,1 @@
-export const userUrl = 'http://localhost:3000/'
+export const userUrl = 'https://skyglobal.onrender.com/'
